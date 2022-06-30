@@ -2,7 +2,7 @@
     "manifest_version": 2,
     
     "name": "Ticket Notifier",
-    "description": "Amazon OpsTech IT ticket notification extension. Created by Breanna Chase, released 6/30/2022.",
+    "description": "Amazon OpsTech IT ticket notification extension",
     "version": "1.0",
 
     "browser_action": {
